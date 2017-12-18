@@ -1,0 +1,68 @@
+body{
+	background-image: url('images.jpg');
+	background-size: cover;
+}
+h1{
+	color: red;
+	text-shadow: 2px 3px 4px #fff000, 9px 8px 0px rgba(0,0,0,0.15);
+	margin: auto;
+	margin-left: 450px;
+}
+h1.vv2{
+	color: red;
+	text-shadow: 1px 2px 4px #fff000, 9px 8px 0px rgba(0,0,0,0.15);
+	margin: auto;
+	margin-left: 450px;
+}
+ul{
+	list-style: none;
+}
+a.v1{
+	font-size: 25px;
+	text-shadow: 1px 2px 3px #000000;
+	display: block;
+	text-decoration: none;
+	color: orange;
+}
+a.silka1{
+	font-size: 25px;
+	margin-left: 10px;
+	text-shadow: 1px 2px 3px #000000;
+	display: block;
+	text-decoration: none;
+	color: orange;
+}
+li.gg11{
+	float: left;
+	margin: auto;
+	margin-top: 20px;
+	margin-left: 230px;
+}
+div.vv1{
+	color: gray;
+	font-size: 20px;
+	text-align: justify;
+	position: absolute;
+	top: 200px;
+}
+pre.vv11{
+	color: black;
+	font-size: 18px;
+	position: absolute;
+	top: 370px;
+	left: 
+}
+a.silk{
+	font-size: 25px;
+	text-shadow: 1px 2px 3px #000000;
+	margin-left: 45px;
+	display: block;
+	text-decoration: none;
+	color: orange;
+}
+pre.vv1111{
+	color: black;
+	font-size: 18px;
+	position: absolute;
+	top: 200px;
+}
