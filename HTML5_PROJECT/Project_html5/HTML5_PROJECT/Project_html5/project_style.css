@@ -1,0 +1,228 @@
+body{
+	background-image: url('fon.jpg');
+	background-size: cover;
+}
+h1.abv{
+	color: red;
+	text-shadow: 2px 3px 4px #fff000, 9px 8px 0px rgba(0,0,0,0.15);
+	margin: auto;
+	margin-left: 450px;
+}
+h1.vv2{
+	color: red;
+	text-shadow: 1px 2px 4px #fff000, 9px 8px 0px rgba(0,0,0,0.15);
+	margin: auto;
+	margin-left: 600px;
+}
+h1.bol{
+	position: absolute;
+	top: 150px;
+	left: 430px;
+}
+ul{
+	list-style: none;
+}
+a.v1{
+	font-size: 25px;
+	text-shadow: 2px 2px 3px #000000;
+	display: block;
+	text-decoration: none;
+	color: orange;
+}
+a.silka1{
+	font-size: 25px;
+	margin-left: 10px;
+	text-shadow: 1px 2px 3px #000000;
+	display: block;
+	text-decoration: none;
+	color: orange;
+}
+li.gg11{
+	float: left;
+	margin: auto;
+	margin-top: 20px;
+	margin-left: 230px;
+}
+div.vv1{
+	color: gray;
+	font-size: 20px;
+	text-align: justify;
+	position: absolute;
+	top: 200px;
+}
+li.g5g11{
+	color: gray;
+	font-size: 20px;
+	text-align: justify;
+	position: absolute;
+	top: 128px;
+	left: 795px;
+}
+#vv1888{
+	color: gray;
+	font-size: 20px;
+	text-align: justify;
+	position: absolute;
+	top: 230px;
+}
+div#vv122{
+	color: gray;
+	font-size: 20px;
+	text-align: justify;
+	position: absolute;
+	top: 230px;
+}
+h2.lloll{
+	position: absolute;
+	bottom: 165px;
+	left: 300px;
+}
+strong.vv11{
+	color: black;
+	font-size: 18px;
+	position: absolute;
+	top: 500px;
+	left: 300px;
+	width: 650px;
+	height: 200px;
+}
+strong.vvvvv{
+	color: black;
+	font-size: 18px;
+	position: absolute;
+	top: 400px;
+	left: 300px;
+	width: 650px;
+	height: 200px;
+}
+img.aa11115{
+	position: fixed;
+	right: 1317px;
+	width: 25px;
+	top: 550px;
+}
+strong.vvvv1v{
+	color: black;
+	font-size: 18px;
+	position: absolute;
+	top: 430px;
+	left: 300px;
+	width: 650px;
+	height: 200px;
+}
+h2.llol{
+	position: absolute;
+	bottom: 190px;
+	left: 300px;
+}
+h2.llool{
+	position: absolute;
+	bottom: 220px;
+	left: 300px;
+}
+div#vv1232{
+	color: gray;
+	font-size: 20px;
+	text-align: justify;
+	position: absolute;
+	top: 250px;
+}
+h2.lloll5{
+	position: absolute;
+	bottom: 135px;
+	left: 300px;
+}
+strong.vv11g{
+	color: black;
+	font-size: 18px;
+	position: absolute;
+	top: 450px;
+	left: 300px;
+	width: 650px;
+	height: 200px;
+}
+a.silk{
+	font-size: 25px;
+	text-shadow: 1px 2px 3px #000000;
+	margin-left: 45px;
+	display: block;
+	text-decoration: none;
+	color: orange;
+}
+pre.vv1111{
+	color: black;
+	font-size: 18px;
+	position: absolute;
+	top: 200px;
+}
+a.bbb111{
+	position: absolute;
+	right: 1000px;
+}
+.aa111{
+	position: fixed;
+	right: 1317px;
+	width: 25px;
+	top: 550px;
+}
+img.a8a1111{
+	position: fixed;
+	right: 1317px;
+	width: 25px;
+	top: 550px;
+}
+img.a8a11151{
+	position: absolute;
+	right: 1333px;
+	width: 25px;
+	top: 550px;
+}
+img.h123{
+	position: fixed;
+	right: 1305px;
+	width: 25px;
+	top: 577px;
+	left: 1px;
+}
+.aa11111{
+	position: fixed;
+	right: 1317px;
+	width: 25px;
+	top: 550px;
+}
+.aa11115{
+	position: fixed;
+	right: 1317px;
+	width: 25px;
+	top: 550px;
+}
+img.h12893{
+	position: fixed;
+	right: 1305px;
+	width: 25px;
+	top: 604px;
+	left: 1px;
+}
+@keyframes allcar{
+	0%{bottom: 1px;}
+	100%{bottom: 700px;}
+}
+div.hello{
+	height: 2000px;
+	width: 1360px;
+	background-image: url(vorota.jpg);
+	position: absolute;
+	bottom: 2000px;
+	left: 0.3px;
+	animation-name: allcar;
+	animation-duration: 10s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+}
+img.begin{
+	position: fixed;
+	width: 70px;
+	height: 50px;
+	right: 5px;
+	bottom: 20px;
+}
